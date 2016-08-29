@@ -5,8 +5,8 @@ Javascript code, 빌드프로세스, 배포를 아우르는 Web/mobile 아키텍
 필수/우대:
 - Javascript 경험필수
 - Frontend framework 경험 (Backbone, React, angularJS 등)
-- Dependency mangement 경험 우대 (requreJS, CommonJS, webpack)
-- 최소 한개이상 빌드 툴 경험 필수 (Grutn, Guil 등)
+- Dependency mangement 경험 우대 (requirreJS, CommonJS, webpack)
+- 최소 한개이상 빌드 툴 경험 필수 (Grunt, Gulp 등)
 - Websocket 개발 경험 우대 
 
 -----------------------
