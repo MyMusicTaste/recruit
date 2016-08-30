@@ -1,4 +1,4 @@
-UX designer specialized in Gamification/ 서비스 Gamification 기획자
+#UX designer specialized in Gamification/ 서비스 Gamification 기획자
 
 업무:
 MyMusicTaste의 Application 전반적인 기획
