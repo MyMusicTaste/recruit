@@ -24,7 +24,7 @@ You can provide your answer in any format( text, code, diagram, etc)
 
 ##Developer
 - Tell me about how you keep track of the hundreds of passwords you have.
-- 
+ 
 
 ##BE
 - I just pulled up your website that WAS in production and the browser is suddenly displaying a blank page. Walk me through the steps you'd take to troubleshoot the problem. What components/tools/services/commands would you use?
