@@ -81,8 +81,9 @@
 - 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
 
 ##디자인 직군
-- [UX Designer - Gamification](uxdesigner.md) 
+- [Service Planner - Gamification](serviceplanner.md) 
 - [UI Designer](uidesigner.md)
+- ~~[UX Designer](uxdesigner.md)~~ 마감
 
 ###UX 문화
 

@@ -74,8 +74,9 @@ Our current software/tech stack:
 - Monitor stands 
 
 ##Designers
-- [UX Designer - Gamification](uxdesigner.md) 
+- [Service Planner - Gamification](serviceplanner.md) 
 - [UI Designer](uidesigner.md)
+- ~~[UX Designer](uxdesigner.md)~~ 
 
 ###Tool
 - Sketch, Oven, Balsamiq
