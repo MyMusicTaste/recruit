@@ -75,7 +75,7 @@ Our current software/tech stack:
 
 ##Designers
 - [Service Planner - Gamification](serviceplanner.md) 
-- [UI Designer](uidesigner.md)
+- ~~[UI Designer](uidesigner.md)~~
 - ~~[UX Designer](uxdesigner.md)~~ 
 
 ###Tool
