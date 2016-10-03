@@ -28,7 +28,7 @@
   * 예산
   * 고객경험 
 - 혼자 일할때와 협업을 할때 효율이 다른가요? 어떤 업무를 하느냐에 따라 틀릴수 있나요?
-- 저희 웹사이트에서 개선하고 싶은 점을 하나 찾아서 어떻게 더나은 제품으로 만들수 있을지 제안해주세요. 그중 고객에게 가장 도움이 되는 것이 어떤것일까요 ? 
+- 저희 웹사이트에서 개선하고 싶은 점을 하나 찾아서 어떻게 더 나은 제품으로 만들수 있을지 제안해주세요. 본인의 지원분야에 해당하는 개선점을 제시해주세요.
 
 ##BE
 - I just pulled up your website that WAS in production and the browser is suddenly displaying a blank page. Walk me through the steps you'd take to troubleshoot the problem. What components/tools/services/commands would you use?
