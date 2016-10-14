@@ -83,7 +83,7 @@
 
 ##디자인 직군
 - [Service Planner - Gamification](serviceplanner.md) 
-- [UI Designer](uidesigner.md)
+- ~~[UI Designer](uidesigner.md)~~ 마감
 - ~~[UX Designer](uxdesigner.md)~~ 마감
 
 ###UX 문화
