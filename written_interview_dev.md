@@ -12,6 +12,8 @@
 모든 답변은 기본적으로 각 질문당 최소 A4용지 한장의 분량으로 작성 부탁드립니다. 
 분량을 필수적으로 지키실 필요는 없습니다. 답변의 양보다는 질에 신경써주십시오. 
 
+In addition, please provide a link or attached file to sample code that you have completed in the past. Pick something you are proud of accomplishing, something that demonstrates your strong points. Write a short (one or two sentences is fine) description of what the sample code is for and why you chose it. We will evaluate on complexity, design, and style.
+
 ##공통
 - MyMusicTaste에 지원하는 이유를 다음 키워드중에 하나를 선택후 서술해주세요.
   * 기술적 호기심
