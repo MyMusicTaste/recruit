@@ -11,6 +11,8 @@ You can provide your answer in any format( text, code, diagram, etc)
 
 The length of each question is not a requirement, but a guideline, however, we do recommend each of your  answers be around 1 A4 sized page in length. Please keep in mind we highly regard quality over quantity.
 
+In addition, please provide a link or attached file to sample code that you have completed in the past. Pick something you are proud of accomplishing, something that demonstrates your strong points. Write a short (one or two sentences is fine) description of what the sample code is for and why you chose it. We will evaluate on complexity, design, and style
+
 ##Common
 - Select one of following keyword why you are applying for the job 
   * technical curiosity
