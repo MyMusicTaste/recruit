@@ -74,7 +74,7 @@ Our current software/tech stack:
 - Monitor stands 
 
 ##Designers
-- [Service Planner - Gamification](serviceplanner.md) 
+- ~~[Service Planner - Gamification](serviceplanner.md)~~
 - ~~[UI Designer](uidesigner.md)~~
 - ~~[UX Designer](uxdesigner.md)~~ 
 
