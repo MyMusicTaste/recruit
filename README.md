@@ -82,7 +82,7 @@
 - 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
 
 ##디자인 직군
-- [Service Planner - Gamification](serviceplanner.md) 
+- ~~[Service Planner - Gamification](serviceplanner.md)~~ 마감
 - ~~[UI Designer](uidesigner.md)~~ 마감
 - ~~[UX Designer](uxdesigner.md)~~ 마감
 
