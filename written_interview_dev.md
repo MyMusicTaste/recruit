@@ -67,3 +67,9 @@ In addition, please provide a link or attached file to sample code that you have
 ##DATA ENGINEER
 - You are tasked with building a data science architecture and are given the options of Hadoop or Amazon Redshift. You are told it is time-sensitive. Which would you choose and why?
 - You are told you need to scrape data from Ticketmaster (example, http://www.ticketmaster.com/search?tm_link=tm_header_search&aid=1897334&user_input=fifth+harmon&q=Fifth+Harmony), which will be used to generate a model for predicting ticket sales for a given artist (collated with other data). What problems do you foresee, how will you handle those, and how will you proceed?
+
+##Agile Coach
+- What book have you read recently that has changed the way you think about Agile and the way you go about your job as a scrum master (or coach) and why?
+- How comfortable are you with ever-changing requirements?
+- How would you help the team create transparency and urgency around continuous system integration?
+
