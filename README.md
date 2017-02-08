@@ -45,7 +45,7 @@
 - [Devops](devops.md)
 - [Sysops](sysops.md)
 - [Test Engineer](testengineer.md)
-- [Agile Coach](agilecoach.md)
+- ~~[Agile Coach](agilecoach.md)~~
 
 ###선호하는 개발자상
 - 개발 결과물을 중요시 하고 돌볼 줄 아는 개발자를 선호합니다. 자신의 업무를 명확히 하고 그 행동에 책임질 수 있는 열정을 중요시 합니다. 
