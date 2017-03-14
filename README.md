@@ -38,13 +38,13 @@
 ##개발 직군
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
 - ~~[Android](android.md)~~
-- [Frontend](frontend.md) 
-- [Backend](backend.md)
+- ~~[Frontend](frontend.md)~~ 
+- [Backend(python)](backend.md)
 - [Data Scientist](datascience.md)
 - [Data Engineer](dataengineer.md)
 - ~~[Devops](devops.md)~~
 - ~~[Sysops](sysops.md)~~
-- [Test Engineer](testengineer.md)
+- ~~[Test Engineer](testengineer.md)~~
 - ~~[Agile Coach](agilecoach.md)~~
 - [ETL Specialist](etlexpert.md)
 
