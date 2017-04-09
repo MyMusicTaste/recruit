@@ -33,13 +33,13 @@ We’re passionate about building an incredible work culture. At MyMusicTaste, w
 
 ##Job opening
 - ~~[Android](android.md) ~~
-- [Web Frontend](frontend.md) 
+- ~~[Web Frontend](frontend.md)~~ 
 - [Backend](backend.md)
 - [Data Scientist](datascience.md)
 - [Data Engineer](dataengineer.md)
 - ~~[Devops](devops.md)~~
 - ~~[Sysops](sysops.md)~~
-- [Test Engineer](testengineer.md)
+- ~~[Test Engineer](testengineer.md)~~
 
 ###Who we are looking for
   - You must be able to define your assignment and be able to take responsiblity.
