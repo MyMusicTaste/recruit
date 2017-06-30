@@ -1,4 +1,4 @@
-#Frontend Developer
+# Frontend Developer
  
 Javascript code, 빌드프로세스, 배포를 아우르는 Web/mobile 아키텍쳐를 빌드, 테스트, 유지보수 할수 있는 개발자를 찾습니다.
 
@@ -9,7 +9,7 @@ Javascript code, 빌드프로세스, 배포를 아우르는 Web/mobile 아키텍
 - 최소 한개이상 빌드 툴 경험 필수 (Grunt, Gulp 등)
 - Websocket 개발 경험 우대 
 
------------------------
+---
 
 Build, test, and maintain frontend web and mobile web architecture including frontend Javascript code, build process, CI, and test framework.
 
