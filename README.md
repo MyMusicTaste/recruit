@@ -7,9 +7,12 @@
 
 마이뮤직테이스트는 이런 비전과 지금까지의 여정을 인정 받아 소프트뱅크 벤처스, 포메이션 그룹, Golden Gate Ventures, DT Capital 등 글로벌 VC들로부터 투자를 유치한 전도유망한 스타트업입니다.
 
+우리는 다음과같은 서비스를 만들기위해 멋진 팀멤버를 모집하고있습니다. [서비스 기획서](Service_Mission.pdf)
+
 ## 팀 마이뮤직테이스트
 
 마이뮤직테이스트는  IT와 음악에 대한 열정으로 전세계 공연 업계의 패러다임을 바꿀 수 있다고 믿는 사람들이 모여있습니다. 다양한 경험과 문화적 배경을 가진 직원들이 자유로운 분위기 속에서 전세계를 대상으로 능력을 발휘하고 있습니다. 이에 전세계 음악팬들을 위한 서비스를 함께 만들어갈 최고의 인재를 모시고자 노력을 아끼지 않고 있습니다.    
+[Team Site](https://team.mymusictaste.com)
 
 ## 프레스
 - [Techcrunch - MyMusicTaste, A Crowdsourcing Platform For Concerts, Raises $10M Series A](https://techcrunch.com/2016/01/07/mymusictaste-a-crowdsourcing-platform-for-concerts-raises-10m-series-a/)
