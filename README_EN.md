@@ -8,12 +8,12 @@
 Our investors include Softbank Ventures Korea, Formation 8, Golden Gate Ventures, DT Capital and numerous global firms that are recognized worldwide.
 
 We strive to create [service mission](Service_Mission.pdf) and actively are looking for team members who will join our journey.
-[Team Site](https://team.mymusictaste.com)
 
 
 ## Team MyMusicTaste
 
 We are a passionate group of people who love music and technology, and strive to change the paradigm of the concert industry. We are always looking for great talent and inspiring team members to find new ways to engage, inspire, and satisfy fans all over the world. 
+[Team Site](https://team.mymusictaste.com)
 
 
 ## Press
