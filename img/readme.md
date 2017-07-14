@@ -1,0 +1,2 @@
+inforgraphic.png
+teamsite.png
