@@ -7,14 +7,16 @@
 
 Our investors include Softbank Ventures Korea, Formation 8, Golden Gate Ventures, DT Capital and numerous global firms that are recognized worldwide.
 
-We strive to create service following [mission](Service_Mission.pdf) and actively are looking for team members who will join our journey.
+We strive to create service following mission and actively are looking for team members who will join our journey.
+![서비스기획서](img/infographic.png)
 
 
 ## Team MyMusicTaste
 
 We are a passionate group of people who love music and technology, and strive to change the paradigm of the concert industry. We are always looking for great talent and inspiring team members to find new ways to engage, inspire, and satisfy fans all over the world. 
-[Team Site](https://team.mymusictaste.com)
+![Teamsite](img/teamsite.png)
 
+[Team Site](https://team.mymusictaste.com)
 
 ## Press
 - [Techcrunch - MyMusicTaste, A Crowdsourcing Platform For Concerts, Raises $10M Series A](https://techcrunch.com/2016/01/07/mymusictaste-a-crowdsourcing-platform-for-concerts-raises-10m-series-a/)
@@ -38,13 +40,13 @@ We’re passionate about building an incredible work culture. At MyMusicTaste, w
 
 ## Job opening
 - ~~[Android](android.md) ~~
-- ~~[Web Frontend](frontend.md)~~ 
+- [Frontend](frontend.md)
 - [Backend](backend.md)
 - [Data Scientist](datascience.md)
 - [Data Engineer](dataengineer.md)
 - ~~[Devops](devops.md)~~
-- ~~[Sysops](sysops.md)~~
 - ~~[Test Engineer](testengineer.md)~~
+- [ETL Specialist](etlexpert.md)
 
 ### Who we are looking for
   - You must be able to define your assignment and be able to take responsiblity.
