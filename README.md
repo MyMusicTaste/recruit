@@ -20,10 +20,12 @@
 
 
 ## 프레스
+
 - [Techcrunch - MyMusicTaste, A Crowdsourcing Platform For Concerts, Raises $10M Series A](https://techcrunch.com/2016/01/07/mymusictaste-a-crowdsourcing-platform-for-concerts-raises-10m-series-a/)
 - [billboard - K-Pop Concerts Continue to Grow Outside Asia: Exclusive Infographic](http://www.billboard.com/articles/columns/k-town/7350481/international-k-pop-concerts-growth-infographic)
 - [Forbes - How Coldplay Inspired A Korean Entrepreneur To Disrupt The Concert Business](http://www.forbes.com/sites/amyguttman/2016/02/15/how-coldplay-inspired-a-korean-entrepreneur-to-disrupt-the-concert-business/#4686279e2227)
 - [매경 - 마이뮤직테이스트, 빅데이터 기반 수요예측 서비스로 공연시장서 돌풍](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=009&aid=0003779552)
+- [동아비즈니스리뷰 - 팬들의 콘서트 요청을 모아 공연 추진. 모두를 만족시키는 ‘행복한 역발상’](http://dbr.donga.com/article/view/1203/article_no/8178)
 
 ## 문화와 환경
 
@@ -46,7 +48,7 @@
 
 ## 개발 직군
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
-- ~~[Android](android.md)~~
+- [Android](android.md)
 - [Frontend](frontend.md)
 - [Backend(python)](backend.md)
 - [Data Scientist](datascience.md)
