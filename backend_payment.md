@@ -1,6 +1,7 @@
-#Backend Developer
+#Backend Payment Integration Developer
 
-MyMusicTaste의 티켓 결제를 위한 서버사이드 로직을 담당할 백엔드 개발자를 찾고있습니다.  
+MyMusicTaste의 티켓 결제를 위한 서버사이드 로직을 담당할 백엔드 개발자를 찾고있습니다.
+현재 Stripe, paypal등 이미 연동 결제모듈 유지보수 및 신규 결제 모듈 연동에 관심 있는 개발자를 찾고있습니다.
 
 업무:
 - Global payment 대응하여 전세계 결제모듈 연동
@@ -16,7 +17,9 @@ MyMusicTaste의 티켓 결제를 위한 서버사이드 로직을 담당할 백�
 - 서버사이드 로직구현에 대한 경험 및 이해 필수
 - 테스트, 테스트, 테스트
 - 문서화습관
+- 외국어로 된 결제 모듈 문서 독해 및 이해
 
 우대
 - 결제모듈 연동 경험
 - 결제 관련 병목, 스케일링 관련하여 최적화 경험 우대
+- refactoring 및 reusable code 중요성에 대한 이해
