@@ -51,6 +51,7 @@
 - [Android](android.md)
 - [Frontend](frontend.md)
 - [Backend(python)](backend.md)
+- [Backend Payment Integration(python)](backend_payment.md)
 - [Data Scientist](datascience.md)
 - [Data Engineer](dataengineer.md)
 - ~~[Devops](devops.md)~~
