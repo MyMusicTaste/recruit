@@ -7,7 +7,7 @@ MyMusicTaste 안드로이드 어플리케이션 개발자를 찾고 있습니다
 - Kotlin 으로 클라이언트 개발 및 개발팀내 언어 이해를 전도
 
 필수
-- 안드로이드 개발 경력 최소 3년 이상
+- 안드로이드 개발 경력 최소 2년 이상
 - Android SDK와 Android 버전에 대한 이해
 - Fragmentation에 대한 대응 가능
 - Anroid UI 디자인, 패턴, 베스트 프랙티스에 대한 경험
