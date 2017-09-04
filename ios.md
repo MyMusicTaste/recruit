@@ -17,3 +17,4 @@ MyMusicTaste iOS 어플리케이션 개발자를 찾고 있습니다.
 - CI를 통한 빌드 및 배포 경험
 - Custom Native UI제작 경험
 - Agile/Scrum 기반의 개발 경험
+- ReactiveSwift, alamoFire 사용 경험
