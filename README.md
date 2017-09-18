@@ -123,6 +123,7 @@
 - ~~[Service Planner - Gamification](serviceplanner.md)~~ 마감
 - ~~[UI Designer](uidesigner.md)~~ 마감
 - ~~[UX Designer](uxdesigner.md)~~ 마감
+- [Project Manager](projectmanager.md)
 
 ### UX 문화
 
