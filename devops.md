@@ -1,4 +1,7 @@
-#Devops Engineer / Sysops Engineer
+#Devops Engineer 
+
+DevOps 엔지니어는 crossfunctional한 롤을 담당하며,
+S/W 개발, 테스팅, 운영에 관련하여 속도 개선 및 delivery에 집중하는 롤입니다.
 
 업무:
 - 개발팀 프로세스를 반영하는 CI/CD 구현및 관리
@@ -9,10 +12,12 @@
 
 필수/우대 사항:
 - Linux/Unix admin 기술 필수
-- 오토메이션/컨피그 매니지먼트 경험 우대(puppet, chef, 그외)
+- 오토메이션/컨피그 매니지먼트 경험 우대(ansible,puppet, chef, 그외)
 - SQL, NOSQL 경험 필수
-- 스크립트 코딩 필수 (php, python, per or ruby)
+- 스크립트 코딩 필수 (python, perl or ruby)
 - Always-up, Always-available IT 서비스에 대한 베스트 프랙티스 경험및 지식 필수
+- Container관련 지식 필수 
+- Service discovery, orchestration tool에 관련된 경험자 우대
 
 -----------------------
 
