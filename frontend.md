@@ -25,6 +25,7 @@
 - 다양한 소프트웨어 구조에 대한 이해 (i.e. MV*, MVVM, Flux).
 - 웹 소켓 기술에 대한 경험 및 이해
 - 웹 브라우저 호환성 이슈와 해결방안에 대한 경험과 지식
+- closure, async/await, generators에 관한 이해
 
 ---
 
