@@ -20,7 +20,7 @@
 
 
 ## 프레스
-
+- [MyMusicTaste, which allows fans to request live events, gets $11M Series C](https://techcrunch.com/2017/11/07/mymusictaste-which-allows-fans-to-request-live-events-gets-11m-series-c/)
 - [Techcrunch - MyMusicTaste, A Crowdsourcing Platform For Concerts, Raises $10M Series A](https://techcrunch.com/2016/01/07/mymusictaste-a-crowdsourcing-platform-for-concerts-raises-10m-series-a/)
 - [billboard - K-Pop Concerts Continue to Grow Outside Asia: Exclusive Infographic](http://www.billboard.com/articles/columns/k-town/7350481/international-k-pop-concerts-growth-infographic)
 - [Forbes - How Coldplay Inspired A Korean Entrepreneur To Disrupt The Concert Business](http://www.forbes.com/sites/amyguttman/2016/02/15/how-coldplay-inspired-a-korean-entrepreneur-to-disrupt-the-concert-business/#4686279e2227)
@@ -48,16 +48,13 @@
 
 ## 개발 직군
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
-- ~~[Android(Kotlin)](android.md)~~
-- ~~[iOS(Swift)](ios.md)~~
-- ~~[Frontend](frontend.md)~~
 - [Backend(python)](backend.md)
-- [Backend Payment Integration(python)](backend_payment.md)
+- [Devops](devops.md)
+- [ETL Specialist](etlexpert.md)
+- ~~[Frontend](frontend.md)~~
 - ~~[Data Scientist](datascience.md)~~
 - ~~[Data Engineer](dataengineer.md)~~
-- ~~[Devops](devops.md)~~
 - ~~[Test Engineer](testengineer.md)~~
-- [ETL Specialist](etlexpert.md)
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
@@ -71,7 +68,7 @@
 마이뮤직테이스트의 개발 조직은 아래와 같은 개발문화를 추구합니다. 
 
 크로스펑셔널, 자기 조직화 팀이며 자유로운 분위기입니다. 
-팀의 규모가 커지면 커질 수록 더 많은 규제와 규칙을 만들게 되는데, 우리는 오히려 능력 있는 멤버들에게 자유를 보장하면 할 수록 더 멋진 서비스를 만들 수 있다고 믿고있습니다.
+팀의 규모가 커지면 커질 수록 더 많은 규제와 규칙을 만들게 되는데, 우리는 오히려 능력 있는 멤버들에게 자유를 보장하면 할 수록 더 멋진 서비스를 만들 수 있다고 믿고 있습니다.
 - 휴가일 수 N 일. 휴가 무제한. 눈치보지 않고 휴가 씀. 
   * 임무만 제대로 하면 문제 없음. 하지만 일은 제대로. 자유와 책임은 언제나 병행 됩니다.
 - 자율 출퇴근 제도
@@ -102,13 +99,13 @@
 - 시스템 인프라 : 주로 AWS.
   * 2015부터 re:invent 행사에 회사 차원에서 참가하고 있습니다.
 - 주요 개발 환경 및 기술 스택 
-  * JavaScript, Python, Swift, Obj-C, Kotlin and many more
+  * JavaScript, Python, Swift, Kotlin and many more
   * Django, Docker, Celery, Websocket
-  * Grunt, Backbone, RequireJS, Bower, Underscore, vue.js
+  * React, Redux
   * Git
   * MySQL, ElasticSearch, mongoDB, Redis 
-  * Nginx, Tornado, uWSGI
-  * TeamCity, Spinnaker, Jenkins
+  * Nginx, uWSGI
+  * Spinnaker, Jenkins
   * AWS services
   * Pycharm, Webstorm
 
