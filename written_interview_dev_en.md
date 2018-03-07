@@ -61,6 +61,7 @@ In addition, please provide a link or attached file to sample code that you have
 - If you encounter a data model and associated analysis that you believe to be poor. How would you validate this and what problems would you be looking for?
 
 ##DATA ENGINEER
-- You are tasked with building a data science architecture and are given the options of Hadoop or Amazon Redshift. You are told it is time-sensitive. Which would you choose and why?
+- You are tasked with building a data storage architecture and are given the options of Hadoop or Amazon Redshift. You are told it is time-sensitive. What kinds of requirements would you consider? How would you make your decision?
+- Please explain the importance of atomic tasks with respect to ETL pipelines. What kinds of challenges arise from forcing each task in a pipeline to be atomic?
 - You are told you need to scrape data from Ticketmaster (example, http://www.ticketmaster.com/search?tm_link=tm_header_search&aid=1897334&user_input=fifth+harmon&q=Fifth+Harmony), which will be used to generate a model for predicting ticket sales for a given artist (collated with other data). What problems do you foresee, how will you handle those, and how will you proceed?
 
