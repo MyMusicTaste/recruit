@@ -18,3 +18,7 @@ Preferences:
 - API 서비스 관련 경험(Experience working with external APIs)
 - web crawling 경험(Web crawler experience highly preferred)
 - data 분석관련 경험 혹은 관심 (Opportunities for growth within data team are available, so experience or interest in system architecture and/or data analytics also preferred)
+
+Duration:
+Minimum 3 month gauranteed. (Job offer possible)
+2,000,000 KRW (Tax includede) / month
