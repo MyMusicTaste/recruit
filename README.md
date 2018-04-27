@@ -50,8 +50,8 @@
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
 - [Backend(python)](backend.md)
 - [Devops](devops.md)
-- [ETL Specialist](etlexpert.md)
-- ~~[Frontend](frontend.md)~~
+- ~~[ETL Specialist](etlexpert.md)~~
+- [Frontend](frontend.md)
 - ~~[Data Scientist](datascience.md)~~
 - ~~[Data Engineer](dataengineer.md)~~
 - ~~[Test Engineer](testengineer.md)~~
@@ -116,26 +116,6 @@
 - 마우스 : 로지텍 MX마스터 혹은 그에 준하는 마우스
 - 집중 가능한 개발 환경을 위한 노이즈 캔슬링 헤드폰 : [BOSE QuietComfort 35](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html)
 - 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
-
-## 디자인 직군
-- ~~[Service Planner - Gamification](serviceplanner.md)~~ 마감
-- ~~[UI Designer](uidesigner.md)~~ 마감
-- ~~[UX Designer](uxdesigner.md)~~ 마감
-- ~~[Project Manager](projectmanager.md)~~
-- [Publisher](publisher.md)
-
-### UX 문화
-
-마이뮤직테이스트의 UX 조직은 표면적으로 보이는 화면만이 아닌 사용자가 경험하게 되는 모든 것들을 설계합니다. 전 세계에 있는 유저들과 소통하고 'Fun'한 경험을 창출하기 위해 고민합니다. 애자일 시스템을 바탕으로 빠른 의사결정이 이루어지고, 주관적인 기획이 아닌 고객들의 실제 데이터를 바탕으로 디자인을 결정하고 개선해나가기 위해 노력합니다. 또한, 적당히 타협하기보다는 끊임없이 왜? 라는 질문을 던져 유저의 입장을 고려하고 실력 있는 개발팀의 서포트를 바탕으로 다양한 가설과 아이디어를 실험하고 검증합니다. 의사결정에 많은 권한이 주어지는 만큼 큰 책임이 따르지만, 목표달성을 위해 깊이 있게 문제를 고민하고 헤쳐나가는 과정에서 오는 성취감 또한 매우 크다고 할 수 있습니다. 
-
-### Tool
-- Sketch, Oven, Balsamiq, Zepplin
-- Omnigraffle
-- Invision, Framer
-- Reframer
-- 사무실 벽면및 곳곳에 비치된 화이트 보드, 하드보드
-- post-it, post-it, post-it
-
 
 # 지원 방법
 이력서와 상세한 자기 소개를 포함한 자유 형식의 지원서를 hr@mymusictaste.com로 보내주십시오.
