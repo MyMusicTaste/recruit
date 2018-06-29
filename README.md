@@ -38,6 +38,12 @@
   * 근로기준법에 의한 기본 휴가에 추가로 자율 휴가 이용 가능 
   * 눈치 보지 않는 자율 출/퇴근
   * 필요시 재택 근무 가능
+- 한달에 한번 자체 Engineering Day 
+  * Open discussion session (Adv, Basic, English Track) 
+  * Lightning talk 
+  * Team shocase
+  * Share your Hack
+  * Pizza, Chicken
 - 직원들의 자기 계발에 투자하고 있습니다.
   * 업무 관련 교육(온라인 강의 포함), 행사 참가비 지원
   * 업무 관련 도서 무제한 지원
@@ -50,11 +56,8 @@
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
 - [Backend(python)](backend.md)
 - [Devops](devops.md)
-- ~~[ETL Specialist](etlexpert.md)~~
 - [Frontend](frontend.md)
-- ~~[Data Scientist](datascience.md)~~
 - ~~[Data Engineer](dataengineer.md)~~
-- ~~[Test Engineer](testengineer.md)~~
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
@@ -69,8 +72,6 @@
 
 크로스펑셔널, 자기 조직화 팀이며 자유로운 분위기입니다. 
 팀의 규모가 커지면 커질 수록 더 많은 규제와 규칙을 만들게 되는데, 우리는 오히려 능력 있는 멤버들에게 자유를 보장하면 할 수록 더 멋진 서비스를 만들 수 있다고 믿고 있습니다.
-- 휴가일 수 N 일. 휴가 무제한. 눈치보지 않고 휴가 씀. 
-  * 임무만 제대로 하면 문제 없음. 하지만 일은 제대로. 자유와 책임은 언제나 병행 됩니다.
 - 자율 출퇴근 제도
 - 눈치 보지 않고 쓸 수 있는 휴식 공간
 - 혼자만의 공간에 집중할 수 있는 시간과 정신의 방
@@ -80,7 +81,7 @@
 우리가 만든 서비스가 전 세계 사람들의 Life 에 직접 영향을 줍니다
 - 우리가 만든 코드, 개발한 기능이 한국의 사용자 뿐 아니라 전 세계 사용자들이 사용하고 사람들의 삶(Life Style)을 바꾸게 되는 경험을 한다고 믿고있습니다.
 - 도쿄 / 한국 리전 뿐 아니라 전 세계 리전에 배포하는 서비스를 지향
-- 13개국어로 서비스 중이며 계속 추가중
+- 13개 국어로 서비스 중이며 계속 추가중
 
 우리는 우리 스스로가 인정할 수 있는 멋진 서비스를 만드는 데 관심이 있습니다.
 - 개발팀 모두가 프로젝트의 오너쉽을 가지고 있습니다. 
@@ -95,19 +96,20 @@
 그것 과는 별도로 당신이 결코 책이나 얘기로는 들을 수 없는 Game Changer Product 를 개발 / 운영하는 경험을 얻을 수 있습니다 
 
 ### 기술 스택
-- 웹서비스 프레임워크 : Django/BackBone
-- 시스템 인프라 : 주로 AWS.
+- 웹서비스 프레임워크 : Python / React
+- 시스템 인프라 : AWS.
   * 2015부터 re:invent 행사에 회사 차원에서 참가하고 있습니다.
 - 주요 개발 환경 및 기술 스택 
-  * JavaScript, Python, Swift, Kotlin and many more
-  * Django, Docker, Celery, Websocket
+  * TypeScript, Python3.6
   * React, Redux
   * Git
-  * MySQL, ElasticSearch, mongoDB, Redis 
+  * MySQL, Postgresql, ElasticSearch, DynamoDB, Redis
+  * Fargate, Glue, Athena, S3
   * Nginx, uWSGI
-  * Spinnaker, Jenkins
-  * AWS services
-  * Pycharm, Webstorm
+  * Spinnaker, Jenkins, CloudFormation, Ansible, Packer, Terraform, Nexus, Consul
+  * Docker, K8s, ECS
+  * Vault
+  * Pycharm, Webstorm, 
 
 ### 개발 직군 기본 장비
 - 모니터 : 27인치 WQHD + Pivot가능한  25인치 DELL Ultra sharp 
