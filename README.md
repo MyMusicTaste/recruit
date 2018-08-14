@@ -41,7 +41,7 @@
 - 한달에 한번 자체 Engineering Day 
   * Open discussion session (Adv, Basic, English Track) 
   * Lightning talk 
-  * Team shocase
+  * Team showcase
   * Share your Hack
   * Pizza, Chicken
 - 직원들의 자기 계발에 투자하고 있습니다.
