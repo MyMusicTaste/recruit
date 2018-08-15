@@ -57,7 +57,6 @@
 - [Backend(python)](backend.md)
 - [Devops](devops.md)
 - [Frontend](frontend.md)
-- ~~[Data Engineer](dataengineer.md)~~
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
@@ -80,7 +79,7 @@
 
 우리가 만든 서비스가 전 세계 사람들의 Life 에 직접 영향을 줍니다
 - 우리가 만든 코드, 개발한 기능이 한국의 사용자 뿐 아니라 전 세계 사용자들이 사용하고 사람들의 삶(Life Style)을 바꾸게 되는 경험을 한다고 믿고있습니다.
-- 도쿄 / 한국 리전 뿐 아니라 전 세계 리전에 배포하는 서비스를 지향
+- 전 세계 리전에 배포하는 서비스를 지향
 - 13개 국어로 서비스 중이며 계속 추가중
 
 우리는 우리 스스로가 인정할 수 있는 멋진 서비스를 만드는 데 관심이 있습니다.
@@ -105,11 +104,11 @@
   * Git
   * MySQL, Postgresql, ElasticSearch, DynamoDB, Redis
   * Fargate, Glue, Athena, S3
-  * Nginx, uWSGI
-  * Spinnaker, Jenkins, CloudFormation, Ansible, Packer, Terraform, Nexus, Consul
+  * Kong
+  * Jenkins, Ansible, Packer, Terraform, Nexus, Consul
   * Docker, K8s, ECS
   * Vault
-  * Pycharm, Webstorm, 
+  * Pycharm, Webstorm, GitKraken
 
 ### 개발 직군 기본 장비
 - 모니터 : 27인치 WQHD + Pivot가능한  25인치 DELL Ultra sharp 
@@ -120,7 +119,7 @@
 - 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
 
 # 지원 방법
-이력서와 상세한 자기 소개를 포함한 자유 형식의 지원서를 hr@mymusictaste.com로 보내주십시오.
+이력서와 상세한 자기 소개를 포함한 자유 형식의 지원서를 nujabes8@mymusictaste.com로 보내주십시오.
 
 아래 내용 중 해당 사항이 있으면 상세히 기술해주십시오. 
 - GitHub 계정
