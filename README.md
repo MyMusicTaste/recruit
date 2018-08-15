@@ -54,9 +54,9 @@
 
 ## 개발 직군
 현재 개발 직군에서는 다음 개발 영역에 해당하는 개발자를 모시고 있습니다. 
-- [Backend(python)](backend.md)
-- [Devops](devops.md)
+- [Backend](backend.md)
 - [Frontend](frontend.md)
+- [Devops](devops.md)
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
