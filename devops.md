@@ -1,37 +1,43 @@
-#Devops Engineer 
+# Devops Engineer 
 
-DevOps 엔지니어는 MyMusicTaste의 Engineering Team내 S/W 개발, 테스팅, 운영에 관련하여 속도 개선 및 delivery에 집중하는 롤입니다.
+DevOps 엔지니어는 MyMusicTaste의 Engineering Team 내 S/W 개발, 테스팅, 운영 및 delivery에 집중하는 롤입니다.
 
 MyMusicTaste는 AWS infra 기반에 다음 기술들을 사용하고있습니다.
 * ECS, Docker Swarm
-* CloudFormation, Ansible, Packer, Spinnaker
+* Docker, Terraform, Ansible, Packer, Spinnaker
 * Jenkins, Nexus
-* Vault
-* Elatic Search, Kibana
+* Vault, Consul
+* Elatic search, Kibana
 * Zabbix, Grafana
-* Consul
 
-MyMusicTaste의 개발자는 [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)의 정신을 추구합니다.
+
+MyMusicTaste의 DevOps 엔지니어는
+- 개발자가 행복하게 개발할 수 있는 환경을 만드는 방법을 고민합니다.
+- 개발자를 위한 도구를 만드는 일을 중요하게 생각합니다.
+- [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)의 정신을 추구합니다.
 
 업무:
-- 개발팀 프로세스를 반영하는 CI/CD 구현및 관리
-- 테스트자동화
-- 소프트웨어적/ 아키텍쳐인 문제 발견 및 수정 
+- 개발팀 프로세스를 반영하는 CI/CD 구현 및 관리
+- 테스트 자동화
+- 소프트웨어적 / 아키텍쳐 문제 발견 및 수정 
 - 서버 리소스 모니터링
 - 서비스 아키텍쳐 보안 관리
 
 필수 사항:
 - Linux/Unix admin 기술 필수
-- 오토메이션/컨피그 매니지먼트 경험 우대(ansible, puppet, chef, 그외)
 - SQL, NOSQL 경험 필수
-- 스크립트 코딩 필수 (python, perl or ruby)
-- Always-up, Always-available IT 서비스에 대한 베스트 프랙티스 경험및 지식 필수
-- Container관련 지식 필수 
+- 스크립트 코딩 경험 필수 (python, ruby or Bash)
+- Always-up, Always-available IT 서비스에 대한 베스트 프랙티스 경험 및 지식 필수
+- Container 관련 지식 필수
 - AWS cloud infra 경험 필수
 - Software defined network 에 대한 이해 필수
 
 우대 사항:
-- Experience with service discovery and orchestration tool (consul, etcd, zookeeper ) 경험 우대
-- Extensive knowledge of CI/CD tools (jenkins, spinnaker, packer) 경험 우대
-- Multi region deployment 경험
-- Container management tools (ECS, Kubernetes, Docker/Docker swarm mode) 경험 우대
+- Experience with DevOps Orchestration/Configuration Management technologies such as Docker, Jenkins, Terraform, Ansible, Packer, Spinnaker.
+- Experience in cloud technologies such as AWS or GCP. Extensive experience in AWS strongly preferred.
+- Experience with container and container orchestration technologies such as docker swarm or k8s.
+- Experience with internal monitoring systems such as Zabbix, Prometheus, Grafana.
+- Experience with logging systems such as ELK, EFK.
+- In-depth experience with administering relational/nosql databases (MySQL, Postgres, MongoDB, DynamoDB)
+- Experience with scripting languages such as Bash, Ruby, or Python. Extensive experience with Python preferred.
+- Experience with multi-region deployment.
