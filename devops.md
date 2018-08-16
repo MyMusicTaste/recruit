@@ -9,6 +9,7 @@ MyMusicTaste는 AWS infra 기반에 다음 기술들을 사용하고있습니다
 * Vault, Consul
 * Elatic search, Kibana
 * Zabbix, Grafana
+* [Kong](https://github.com/Kong/kong)
 
 
 MyMusicTaste의 DevOps 엔지니어는
