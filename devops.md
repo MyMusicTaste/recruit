@@ -7,10 +7,11 @@ MyMusicTaste는 AWS infra 기반에 다음 기술들을 사용하고있습니다
 * Docker, Terraform, Ansible, Packer, Spinnaker
 * Jenkins, Nexus
 * Vault, Consul
-* Elatic search, Kibana
+* Elatic search, fluentd, Kibana
 * Zabbix, Grafana
 * [Kong](https://github.com/Kong/kong)
-
+* DynamoDB, postgreSQL, MySQL
+* Redis, memcache
 
 MyMusicTaste의 DevOps 엔지니어는
 - 개발자가 행복하게 개발할 수 있는 환경을 만드는 방법을 고민합니다.
