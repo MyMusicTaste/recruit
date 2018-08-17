@@ -25,7 +25,7 @@ MyMusicTaste의 MSA 인프라 및 서비스 개발을 위하 코어 프레임워
 - rpc, messaging 프레임워크 경험(GRPC, Thrift, ZeroMQ, RabbitMQ, kafka)
 - 도전과 기회를 망설이지 않는분 
 - AWS 기반 솔루션 제작경험
-- devops 
+- devops 경험
 
 
 ## tasks and responsibilities
