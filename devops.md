@@ -1,6 +1,7 @@
 # Devops Engineer 
 
-DevOps 엔지니어는 MyMusicTaste의 Engineering Team 내 S/W 개발, 테스팅, 운영 및 delivery에 집중하는 롤입니다.
+MyMusicTaste의 DevOps 엔지니어는 기술 본부 내 S/W 개발, 테스팅, 운영 및 delivery에 집중하는 롤입니다.
+더 나은 engineering culture를 위해 궁리하고 제안하고 보완하는 중요한 롤을 맡고있습니다.
 
 MyMusicTaste는 AWS infra 기반에 다음 기술들을 사용하고있습니다.
 * ECS, Docker Swarm
