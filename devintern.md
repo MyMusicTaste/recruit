@@ -1,4 +1,4 @@
-#Developer Intern
+# Developer Intern
 
 입사지원과 면접이라는 과정은 회사뿐 아니라 지원자 여러분들도 내가 지원한 회사가 나와 잘 맞는지 판단하는 기회입니다.
 MyMusicTaste를 경험해보세요.
