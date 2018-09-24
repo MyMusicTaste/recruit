@@ -39,7 +39,7 @@ We’re passionate about building an incredible work culture. At MyMusicTaste, w
 - Fully stocked beverage fridge, healthy snacks, and Häagen-Dazs
 
 ## Job opening
-- ~~[Android](android.md) ~~
+- ~~[Android](android.md)~~
 - [Frontend](frontend.md)
 - [Backend](backend.md)
 - [Data Scientist](datascience.md)
