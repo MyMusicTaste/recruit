@@ -27,6 +27,13 @@
 - [매경 - 마이뮤직테이스트, 빅데이터 기반 수요예측 서비스로 공연시장서 돌풍](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=009&aid=0003779552)
 - [동아비즈니스리뷰 - 팬들의 콘서트 요청을 모아 공연 추진. 모두를 만족시키는 ‘행복한 역발상’](http://dbr.donga.com/article/view/1203/article_no/8178)
 
+## 커뮤니티 발표 및 후원
+- [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
+- [Pycon Korea 2018-Pythonic한 코드가 효율적일까?](https://www.slideshare.net/ssuserd5b689/pythonic-110444563)
+- [9xD Hackathon 후원]()
+- [AWSKRUG 발표]()
+
+
 ## 문화와 환경
 
 마이뮤직테이스트는 자율적이고 주도적인 문화를 위한 지원을 아끼지 않습니다. 이를 위해 개인의 능력을 최대치로 끌어올릴 수 있게 최고의 근무 환경을 제공하고, 업무에 있어서 많은 권한과 책임을 동시에 부여합니다. 팀 마이뮤직테이스트는 다음과 같은 환경에서 일하고 있습니다.
