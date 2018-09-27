@@ -30,9 +30,9 @@
 ## 커뮤니티 발표 및 후원
 - [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
 - [Pycon Korea 2018-Pythonic한 코드가 효율적일까?](https://www.slideshare.net/ssuserd5b689/pythonic-110444563)
-- [9xD Hackathon 후원]()
-- [AWSKRUG 발표]()
-
+- [9xD Hackathon 후원](img/9xd_1.jpg)
+- [AWSKRUG 발표](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
+- [Pycon Korea 2018 후원](https://www.pycon.kr/2018/about/sponsor/mymusictaste)
 
 ## 문화와 환경
 
@@ -55,7 +55,6 @@
   * 업무 관련 교육(온라인 강의 포함), 행사 참가비 지원
   * 업무 관련 도서 무제한 지원
 - Pycon 및 다양한 행사에 후원 및 참여하고 있습니다.
-  * [Pycon Korea 2018 후원](https://www.pycon.kr/2018/about/sponsor/mymusictaste)
 - 다양한 음료와 하겐다즈로 채워진 냉장고 등 퀄리티 높은 근무 환경을 위해 노력하고 있습니다.
 - 금요일 오후 마다 전 직원을 만날 수 있는 Happy Hour
 
