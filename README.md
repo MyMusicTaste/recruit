@@ -65,6 +65,8 @@
 - [Frontend](frontend.md)
 - [Devops](devops.md)
 - [Core Framework](framework.md)
+- [Data Engineer](dataengineer.md)
+- [Data Analyst](dataanalyst.md)
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
