@@ -4,7 +4,7 @@
 ## 전세계 아티스트, 공연 관련 데이터 관리 및 Business Intelligence
 - 콘서트관련 데이터 분석 : Third party (Youtube, Facebook, 각종 음원 스트리밍 서비스) data 수집, 가공
 - 광고 대상 아티스트x지역 발굴
-- 공연 수요예측, 적정 Artist Gaurantee 분석, 적정 비용 분석
+- 공연 수요예측, 적정 공연 비용 분석
 
 ## MyMusicTaste 서비스 데이터 관리
 - 서비스 지표 관리, 모니터링
