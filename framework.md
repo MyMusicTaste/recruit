@@ -1,9 +1,9 @@
 # Framework developer
 
-MyMusicTaste의 MSA 인프라 및 서비스 개발을 위하 코어 프레임워크 개발자 포지션압니다.
+MyMusicTaste의 MSA 인프라 및 서비스 개발을 위하 코어 프레임워크 개발자 포지션입니다.
 
 ## 주요업무
-- 코어 프레임 워크 개발 및 유지보스
+- 코어 프레임 워크 개발 및 유지보수
 - http, rpc, messaging 관련 인터페이스 개발
 - 다음과 같은 스택 개발 및 유지보수
     - error handling, logging, monitoring, tracing.(EFK, AWS X-Ray, Opentracing) 
