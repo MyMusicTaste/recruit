@@ -66,7 +66,6 @@
 - [Devops](devops.md)
 - [Core Framework](framework.md)
 - [Data Engineer](dataengineer.md)
-- [Data Analyst](dataanalyst.md)
 
 ### 선호하는 개발자상
 우리의 채용조건은 다른 곳보다 조금 더 높고 까다롭고 신중 합니다.
@@ -129,7 +128,6 @@
 - 컴퓨터 : MacBook Pro with Retina (또는 그에 준하는 장비로 선택 가능)
 - 키보드 : 취향에 따라 선택 가능 (멤브레인, 펜타그래프, 기계식(청축, 적축, 흑축,갈축), 플런저, 무접점 등)
 - 마우스 : 로지텍 MX마스터 혹은 그에 준하는 마우스
-- 집중 가능한 개발 환경을 위한 노이즈 캔슬링 헤드폰 : [BOSE QuietComfort 35](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html)
 - 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
 
 # 지원 방법
