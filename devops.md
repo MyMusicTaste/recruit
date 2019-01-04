@@ -5,32 +5,31 @@ MyMusicTaste의 DevOps 엔지니어는 기술 본부 내 S/W 개발, 테스팅, 
 
 MyMusicTaste는 AWS infra 기반에 다음 기술들을 사용하고있습니다.
 * ECS, Docker Swarm
-* Docker, Terraform, Ansible, Packer, Spinnaker
+* Docker, Terraform, Ansible, Packer
 * Jenkins, Nexus
 * Vault, Consul
-* Elatic search, fluentd, Kibana
-* Zabbix, Grafana
+* Elasticsearch, fluentd, Kibana
 * [Kong](https://github.com/Kong/kong)
 * DynamoDB, postgreSQL, MySQL
-* Redis, memcache
+* Redis
 
 MyMusicTaste의 DevOps 엔지니어는
 - 개발자가 행복하게 개발할 수 있는 환경을 만드는 방법을 고민합니다.
 - 개발자를 위한 도구를 만드는 일을 중요하게 생각합니다.
 - [Infrastructure as code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)의 정신을 추구합니다.
+- Must be lazy! Must 자동화!
 
 업무:
-- 개발팀 프로세스를 반영하는 CI/CD 구현 및 관리
-- 테스트 자동화
-- 소프트웨어적 / 아키텍쳐 문제 발견 및 수정 
-- 서버 리소스 모니터링
-- 서비스 아키텍쳐 보안 관리
+- 개발팀 프로세스 개선을 위해 툴/서비스 개발
+- 개발팀 프로세스를 반영하는 CI/CD 구현 및 관리 
+- 테스트자동화 
+- 소프트웨어적/아키텍처 문제 발견 및 수정 
+- 서비스 모니터링 
+- 서비스 아키텍처 보안 관리
 
 필수 사항:
-- Linux/Unix admin 기술 필수
-- SQL, NOSQL 경험 필수
-- 스크립트 코딩 경험 필수 (python, ruby or Bash)
-- Always-up, Always-available IT 서비스에 대한 베스트 프랙티스 경험 및 지식 필수
+- 3-5년 개발 경력
+- 스크립팅 언어 경험 필수
 - Container 관련 지식 필수
 - AWS cloud infra 경험 필수
 - Software defined network 에 대한 이해 필수
