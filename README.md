@@ -123,13 +123,6 @@
   * Vault
   * Pycharm, Webstorm, GitKraken
 
-### 개발 직군 기본 장비
-- 모니터 : 27인치 WQHD + Pivot가능한  25인치 DELL Ultra sharp 
-- 컴퓨터 : MacBook Pro with Retina (또는 그에 준하는 장비로 선택 가능)
-- 키보드 : 취향에 따라 선택 가능 (멤브레인, 펜타그래프, 기계식(청축, 적축, 흑축,갈축), 플런저, 무접점 등)
-- 마우스 : 로지텍 MX마스터 혹은 그에 준하는 마우스
-- 이밖에 필요에 의한 추가 장비 및 S/W tool 제공
-
 # 지원 방법
 이력서와 상세한 자기 소개를 포함한 자유 형식의 지원서를 recruiting@mymusictaste.com 으로 보내주십시오.
 
