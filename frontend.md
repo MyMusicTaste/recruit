@@ -15,8 +15,8 @@
 - React를 사용하여 새로운 MyMusicTaste Web application을 만듭니다.
 - 메인 서비스와 함께 팀 사이트, 블로그 등을 관리합니다.
 - 다양한 최신 스택을 효율적으로 활용하여 즐겁게 개발합니다.
-    - Typescript, Babel, PostCSS(Autoprefixr, CSS Modules), Storybook, Webpack
-    - React, Redux, RxJS, RamdaJS, Jest, Enzyme, js-lingui
+    - Typescript, Babel, PostCSS(Autoprefixr, CSS Modules), Styled-components, Storybook, Webpack
+    - React, Redux, MobX, RxJS, RamdaJS, Jest, Enzyme, js-lingui
     - Prettier, tslint
 - AWS를 사용하여 Microservice architecture를 만드는  Backend 개발자들과 함께 서비스를 설계합니다.
 - 단방향 Top-down/Waterfall 아닌, 최고의 UX/UI 팀과 적극적인 소통을 통해 멋진 제품을 완성합니다. 
